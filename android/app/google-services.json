@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "331884367510",
+    "project_id": "ctse-flora-app",
+    "storage_bucket": "ctse-flora-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331884367510:android:cef90ef91e09a90f013cb7",
+        "android_client_info": {
+          "package_name": "com.example.flora_ctse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331884367510-17v6tp4kec5faeu629qmk9m9n29bqja7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flora_ctse",
+            "certificate_hash": "3ef6bc891114d6236661babc894d17841247070c"
+          }
+        },
+        {
+          "client_id": "331884367510-7r3kp0tss7r18n9fjkn09g5n73qci77u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByIpDWFq-zxRM8tYJ_pP3tHK2Vc04inmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331884367510-7r3kp0tss7r18n9fjkn09g5n73qci77u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
